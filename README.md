@@ -1,6 +1,6 @@
 # 🎾 AI_Tennis_Coach-Analysis & Prediction
 
-A data science project that analyses Iga Swiatek's WTA match history (2020–2025) to build predictive models and a coaching simulation framework — answering not just *will she win?* but *what should she improve?*
+A data science and machine learning project that analyses Iga Swiatek's WTA match history (2020–2025) to build predictive models and a coaching simulation framework — answering not just *will she win?* but *what should she improve?*
 
 ---
 
